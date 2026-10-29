@@ -1,0 +1,3 @@
+/home/bianca/PAOO/build/CMakeFiles/student_demo.dir
+/home/bianca/PAOO/build/CMakeFiles/edit_cache.dir
+/home/bianca/PAOO/build/CMakeFiles/rebuild_cache.dir
